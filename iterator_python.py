@@ -56,9 +56,12 @@ def my_range(start, end):
 print(next(nums))
 print(next(nums)) """
 
-nums = my_range(1, 10)
+""" nums = my_range(1, 10)
 print(next(nums))
 print(next(nums))
 
 for num in nums:
-    print(num)
+    print(num) """
+
+
+
