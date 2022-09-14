@@ -1,1 +1,5 @@
-Hello World
+Date: 2018-11-15 15:00:00
+Author: Corey Goldberg - CTO, Co-Founder
+Tweet: @coreygoldberg
+
+Corey Goldberg is the CTO and Co-Founder of Load Impact. He is a software engineer with over 20 years of experience in the industry. He has worked on a wide range of projects, from embedded systems to large-scale distributed systems. He is passionate about building great software and helping others do the same.
